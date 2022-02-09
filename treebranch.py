@@ -10,7 +10,7 @@ def main():
 def branch(x):
     
     add = "*****"
-    ast = ""  #variables to make the tree.  I have no idea how else to do this.
+    ast = ""  #variables to make the tree.  
     
     if x == 0:
         return
